@@ -33,7 +33,7 @@ public class Shop {
     System.out.println("STLAC 1 na Kapucino , STLAC 2 na Late , Stlac 3 na Kavu  STLAC 4 na Horku cokoladu , Stlac 5 na Espresso, Stlac 6 na zrusenie");
     
     choose = input.nextInt();
-    //conditions
+    
     if(choose==1){
         System.out.println("Vybral si si Kapucino, zadaj kolko kapucin chces kupit");
         
